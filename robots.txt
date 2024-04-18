@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lilpum.com/sitemap.xml
