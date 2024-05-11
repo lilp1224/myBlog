@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lilpum.com/WordFormatting/</loc>
-    <lastmod>2024-04-18</lastmod>
+    <loc>https://lilpum.com/gpt-crawler-custom-knowledge-chatgpt/</loc>
+    <lastmod>2024-05-11</lastmod>
   </url>
   <url>
     <loc>https://lilpum.com/subscribechatgptplus/</loc>
     <lastmod>2024-04-18</lastmod>
   </url>
   <url>
-    <loc>https://lilpum.com/MqttInRust/</loc>
+    <loc>https://lilpum.com/WordFormatting/</loc>
     <lastmod>2024-04-18</lastmod>
   </url>
   <url>
     <loc>https://lilpum.com/LinuxTxtProcessing/</loc>
+    <lastmod>2024-04-18</lastmod>
+  </url>
+  <url>
+    <loc>https://lilpum.com/MqttInRust/</loc>
     <lastmod>2024-04-18</lastmod>
   </url>
 </urlset> 
