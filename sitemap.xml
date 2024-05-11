@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/LinuxTxtProcessing/</loc>
+    <loc>https://lilpum.com/WordFormatting/</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/WordFormatting/</loc>
+    <loc>https://lilpum.com/LinuxTxtProcessing/</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -107,6 +107,27 @@
   
   <url>
     <loc>https://lilpum.com/tags/lilpum/</loc>
+    <lastmod>2024-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilpum.com/tags/word%E6%8E%92%E7%89%88/</loc>
+    <lastmod>2024-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilpum.com/tags/%E9%95%BF%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F%E5%8C%96/</loc>
+    <lastmod>2024-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilpum.com/tags/%E8%AE%BA%E6%96%87%E6%8E%92%E7%89%88/</loc>
     <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -183,27 +204,6 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/tags/word%E6%8E%92%E7%89%88/</loc>
-    <lastmod>2024-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lilpum.com/tags/%E9%95%BF%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F%E5%8C%96/</loc>
-    <lastmod>2024-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lilpum.com/tags/%E8%AE%BA%E6%96%87%E6%8E%92%E7%89%88/</loc>
-    <lastmod>2024-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lilpum.com/tags/GPTs/</loc>
     <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,13 +248,6 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/categories/Linux/</loc>
-    <lastmod>2024-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lilpum.com/categories/%E4%BE%BF%E6%8D%B7%E5%8A%9E%E5%85%AC/</loc>
     <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -262,7 +255,7 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/categories/%E5%88%86%E7%B1%BB/</loc>
+    <loc>https://lilpum.com/categories/Linux/</loc>
     <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -277,6 +270,13 @@
   
   <url>
     <loc>https://lilpum.com/categories/%E4%BE%BF%E6%8D%B7%E5%8A%9E%E5%85%AC/word/</loc>
+    <lastmod>2024-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilpum.com/categories/%E5%88%86%E7%B1%BB/</loc>
     <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
