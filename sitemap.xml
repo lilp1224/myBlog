@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/tags/index.html</loc>
+    <loc>https://lilpum.com/link/index.html</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/link/index.html</loc>
+    <loc>https://lilpum.com/tags/index.html</loc>
     
     <lastmod>2024-04-18</lastmod>
     
@@ -122,20 +122,6 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/tags/openai/</loc>
-    <lastmod>2024-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lilpum.com/tags/gpt4o/</loc>
-    <lastmod>2024-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lilpum.com/tags/word%E6%8E%92%E7%89%88/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -151,6 +137,20 @@
   
   <url>
     <loc>https://lilpum.com/tags/%E8%AE%BA%E6%96%87%E6%8E%92%E7%89%88/</loc>
+    <lastmod>2024-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilpum.com/tags/openai/</loc>
+    <lastmod>2024-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilpum.com/tags/gpt4o/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -227,20 +227,6 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/tags/GPTs/</loc>
-    <lastmod>2024-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lilpum.com/tags/gpt-crawler/</loc>
-    <lastmod>2024-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lilpum.com/tags/rust/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -261,6 +247,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://lilpum.com/tags/GPTs/</loc>
+    <lastmod>2024-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilpum.com/tags/gpt-crawler/</loc>
+    <lastmod>2024-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -271,14 +271,14 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/categories/ai/</loc>
+    <loc>https://lilpum.com/categories/%E4%BE%BF%E6%8D%B7%E5%8A%9E%E5%85%AC/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lilpum.com/categories/%E4%BE%BF%E6%8D%B7%E5%8A%9E%E5%85%AC/</loc>
+    <loc>https://lilpum.com/categories/ai/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -299,13 +299,6 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/categories/gpts/</loc>
-    <lastmod>2024-05-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://lilpum.com/categories/%E7%89%A9%E8%81%94%E7%BD%91/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -313,7 +306,7 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/categories/ai/chatgpt/</loc>
+    <loc>https://lilpum.com/categories/gpts/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -327,7 +320,7 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/categories/gpts/chatgpt/</loc>
+    <loc>https://lilpum.com/categories/ai/chatgpt/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -341,7 +334,7 @@
   </url>
   
   <url>
-    <loc>https://lilpum.com/categories/gpts/chatgpt/ai/</loc>
+    <loc>https://lilpum.com/categories/gpts/chatgpt/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -349,6 +342,13 @@
   
   <url>
     <loc>https://lilpum.com/categories/%E7%89%A9%E8%81%94%E7%BD%91/rust/MQTT/</loc>
+    <lastmod>2024-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilpum.com/categories/gpts/chatgpt/ai/</loc>
     <lastmod>2024-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
