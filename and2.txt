@@ -186,7 +186,7 @@
     },
     "udpdns": false,
     "method": "aes-256-gcm",
-    "password": null,
+    "password": "KFdDP97LShAzoRUp",
     "remarks": "JustMySocks Node 1",
     "server": "c56s1.portablesubmarin",
     "server_port": 8253
@@ -202,7 +202,7 @@
     },
     "udpdns": false,
     "method": "aes-256-gcm",
-    "password": null,
+    "password": "KFdDP97LShAzoRUp",
     "remarks": "JustMySocks Node 2",
     "server": "c56s2.portablesubmarin",
     "server_port": 8253
